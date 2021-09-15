@@ -1,5 +1,5 @@
 
-# Interview Prep Questionnaire by A32 JS 
+# Interview Prep Questionnaire A32 JS 
 
 Feel free to add any relevant interview questions for JS Ninjas (:
 
@@ -8,11 +8,10 @@ Start with topics like OOP, DSA...
 **Format your questions using Markdown rules.**
 
 ```
-** Q1: What are the SOLID principles? Give examples referring to OOP in JS. **
+Q1: What are the SOLID principles? Give examples referring to OOP in JS.
 
 
-```markdown
-
+```
 
 Syntax highlighted code block
 
