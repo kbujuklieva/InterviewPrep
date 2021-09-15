@@ -7,7 +7,13 @@ Start with topics like OOP, DSA...
 
 **Format your questions using Markdown rules.**
 
+```
+** Q1: What are the SOLID principles? Give examples referring to OOP in JS. **
+
+
 ```markdown
+
+
 Syntax highlighted code block
 
 # Header 1
@@ -23,13 +29,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-** Q1: What are the SOLID principles? Give examples referring to OOP in JS. **
-
-** Q2: **
-** Q3: **
-
-
 
 ## GitHub Pages
 You can use the [editor on GitHub](https://github.com/kbujuklieva/InterviewPrep/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
