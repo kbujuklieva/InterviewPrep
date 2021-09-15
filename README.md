@@ -1,6 +1,5 @@
 
-# Interview Prep Questionnaire 
-## by A32 JS 
+# Interview Prep Questionnaire ## by A32 JS 
 
 Feel free to add any relevant interview questions for JS Ninjas (:
 
