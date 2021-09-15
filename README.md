@@ -43,7 +43,11 @@ Q3:
 .
 
 ```
+## REMEMBER
+```
+ - Good software design has high cohesion and low coupling.
 
+```
 Syntax highlighted code block
 
 # Header 1
