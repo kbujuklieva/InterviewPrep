@@ -7,9 +7,40 @@ Start with topics like OOP, DSA...
 
 **Format your questions using Markdown rules.**
 
+## OOP
+
 ```
 Q1: What are the SOLID principles? Give examples referring to OOP in JS.
+.
+Q2:
+.
+Q3:
+.
 
+
+```
+
+## DSA
+
+```
+Q1: What are some linear data structures? Give examples referring to OOP in JS.
+.
+Q2: What is meant by tail recursion? Give example.
+.
+Q3: 
+.
+
+```
+
+## Web development
+
+```
+Q1:
+.
+Q2:
+.
+Q3:
+.
 
 ```
 
