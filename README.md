@@ -1,5 +1,5 @@
 
-#Interview Prep Questionnaire by A32 JS 
+# Interview Prep Questionnaire by A32 JS 
 
 Feel free to add any relevant interview questions for JS Ninjas (:
 
@@ -24,10 +24,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-**Q1: What are the SOLID principles? Give examples referring to OOP in JS.**
+** Q1: What are the SOLID principles? Give examples referring to OOP in JS. **
 
-**Q2: **
-**Q3: **
+** Q2: **
+** Q3: **
 
 
 
