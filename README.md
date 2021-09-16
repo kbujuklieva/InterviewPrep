@@ -39,6 +39,46 @@ Q13:
 Q14:
 .
 Q15:
+.
+Q16:
+.
+Q17:
+.
+Q18:
+.
+Q19:
+.
+Q20:
+.
+Q21:
+.
+Q22:
+.
+Q23:
+.
+Q24:
+.
+Q25:
+.
+Q26:
+.
+Q27:
+.
+Q28:
+.
+Q29:
+.
+Q30:
+.
+Q31:
+.
+Q32:
+.
+Q33:
+.
+Q34:
+.
+Q35:
 
 ```
 ## OOP
@@ -82,11 +122,37 @@ Q18: What is meant by "coupling"? Give examples of tight and loose coupling. Whi
 .
 Q19: What is meant by "cohesion"? Give examples of high and low cohesion. Which one would you go for?
 .
-Q20:
+Q20: How do we set default values in a class? Give example.
 .
-Q21:
+Q21: How do we create a readonly field? What about a writeonly one?
 .
-Q22: 
+Q22: What is the difference between using _ and # in front of field names? What do we achieve by that?
+.
+Q23: 
+.
+Q24:
+.
+Q25:
+.
+Q26:
+.
+Q27: 
+.
+Q28:
+.
+Q29:
+.
+Q30:
+.
+Q31:
+.
+Q32:
+.
+Q33:
+.
+Q34:
+.
+Q35:
 
 ```
 
@@ -122,6 +188,48 @@ Q13:
 Q14:
 .
 Q15:
+.
+Q16:
+.
+Q17:
+.
+Q18:
+.
+Q19:
+.
+Q20:
+.
+Q21:
+.
+Q22:
+.
+Q23:
+.
+Q24:
+.
+Q25:
+.
+Q26:
+.
+Q27:
+.
+Q28:
+.
+Q29:
+.
+Q30:
+.
+Q31:
+.
+Q32:
+.
+Q33:
+.
+Q34:
+.
+Q35:
+
+
 
 
 ```
@@ -135,12 +243,87 @@ Q2:
 .
 Q3:
 .
+Q4:
+.
+Q5:
+.
+Q6:
+.
+Q7: 
+.
+Q8: 
+.
+Q9:
+.
+Q10:
+.
+Q11:
+.
+Q12:
+.
+Q13:
+.
+Q14:
+.
+Q15:
+.
+Q16:
+.
+Q17:
+.
+Q18:
+.
+Q19:
+.
+Q20:
+.
+Q21:
+.
+Q22:
+.
+Q23:
+.
+Q24:
+.
+Q25:
+.
+Q26:
+.
+Q27:
+.
+Q28:
+.
+Q29:
+.
+Q30:
+.
+Q31:
+.
+Q32:
+.
+Q33:
+.
+Q34:
+.
+Q35:
+
 
 ```
 ## REMEMBER
 ```
  - Good software design has high cohesion and low coupling.
+ - 
 
+```
+## PRO TIPS when preparing for an interview
+```
+- Think of examples for the most important concepts and have them ready-to-go - PREPARATION IS THE KEY TO SUCCESS!
+- If you have any questions that you did not answer fully in a previous interview - do some research and make sure you know them prior to your next one.
+- Practice with friends / colleagues.
+- Get your theoretical knowledge right - you should be feeling confident explaining all concepts in English + using the right terminology.
+- Focus on answering the questions that you are asked; don't simply say everything you know on the topic.
+- Always consider edge cases, exceptions, JS-specific concepts.
+- 
 ```
 
 Syntax highlighted code block
